@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NotificationService/.vs/NotificationService/FileContentIndex
+/NotificationService/.vs/NotificationService/v17
+/NotificationService.Test/obj/Debug/net8.0/NotificationService.Test.csproj.AssemblyReference.cache

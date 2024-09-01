@@ -11,13 +11,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{67833EBD-0E5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E47BFDCE-9860-48F0-BD35-78B97AFAF429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService.Application", "..\NotificationService.Application\NotificationService.Application.csproj", "{84B3BE89-E7E0-44C7-9D65-FC52A26B66CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Application", "..\NotificationService.Application\NotificationService.Application.csproj", "{84B3BE89-E7E0-44C7-9D65-FC52A26B66CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService.Domain", "..\NotificationService.Domain\NotificationService.Domain.csproj", "{9EA65E68-3A0E-4A3D-AA8D-167FBBDEDD84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Domain", "..\NotificationService.Domain\NotificationService.Domain.csproj", "{9EA65E68-3A0E-4A3D-AA8D-167FBBDEDD84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService.Infrastructure", "..\NotificationService.Infrastructure\NotificationService.Infrastructure.csproj", "{FB2EABF2-5310-4D71-86E3-3D7783A0B93E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.Infrastructure", "..\NotificationService.Infrastructure\NotificationService.Infrastructure.csproj", "{FB2EABF2-5310-4D71-86E3-3D7783A0B93E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService.IntegrationTests", "..\NotificationService.IntegrationTests\NotificationService.IntegrationTests.csproj", "{E1226A7D-5E62-413F-B12B-02F0CBF3B584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationService.IntegrationTests", "..\NotificationService.IntegrationTests\NotificationService.IntegrationTests.csproj", "{E1226A7D-5E62-413F-B12B-02F0CBF3B584}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E433549-CC21-4EED-93C6-28C8A3A2F201}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
