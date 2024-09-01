@@ -1,0 +1,27 @@
+Notification Service
+ 
+ 
+	You are required to design and implement a RESTful API for a notification service. The service should support sending notifications via multiple channels
+	(e.g., email, SMS, push notifications). The API should handle the following functionalities:
+ 
+	Notification Types:
+	Create, update, and delete notification types (e.g., promotional, transactional, alert).
+	Retrieve details of a specific notification type by its ID.
+	List all notification types.
+ 
+	Send Notifications:
+	Send a notification to a user via the specified channel.
+	Retrieve the status of a sent notification.
+	List all notifications sent within a specific time range, optionally filtered by user or notification type.
+ 
+	### Requirements
+ 
+	Entities:
+	NotificationType: `Id`, `Name`, Description
+	Notification: `Id`, `UserId`, `NotificationTypeId`, `Channel`, `Content`, `SentDate`, Status
+	Channel: Enum (Email, SMS, PushNotification)
+	**Technical Stack**:
+	.NET Core / .NET 6+
+	Entity Framework Core for data access
+	In-memory database for simplicity
+	ASP.NET Core Web API

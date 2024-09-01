@@ -1,0 +1,17 @@
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Infrastructure.deps.json
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Infrastructure.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Infrastructure.pdb
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Application.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Domain.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Application.pdb
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\bin\Debug\net8.0\NotificationService.Domain.pdb
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.AssemblyReference.cache
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfoInputs.cache
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.AssemblyInfo.cs
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.csproj.CopyComplete
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\refint\NotificationService.Infrastructure.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\NotificationService.Infrastructure.pdb
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Infrastructure\obj\Debug\net8.0\ref\NotificationService.Infrastructure.dll

@@ -1,0 +1,15 @@
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.csproj.AssemblyReference.cache
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.AssemblyInfoInputs.cache
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.AssemblyInfo.cs
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.csproj.CoreCompileInputs.cache
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\bin\Debug\net8.0\NotificationService.Application.deps.json
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\bin\Debug\net8.0\NotificationService.Application.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\bin\Debug\net8.0\NotificationService.Application.pdb
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\bin\Debug\net8.0\NotificationService.Domain.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\bin\Debug\net8.0\NotificationService.Domain.pdb
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.csproj.CopyComplete
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\refint\NotificationService.Application.dll
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\NotificationService.Application.pdb
+D:\1.SHREYANS_WORK\Herbinger Test\NotificationService.Application\obj\Debug\net8.0\ref\NotificationService.Application.dll
